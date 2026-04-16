@@ -36,6 +36,16 @@ Then add to your vim config:
 colorscheme yuki
 ```
 
+# Showcase
+
+## Lua
+
+![Lua code rendered with the yuki.nvim colorscheme](./screenshots/lua.png)
+
+## TypeScript
+
+![TypeScript code rendered with the yuki.nvim colorscheme](./screenshots/typescript.png)
+
 # Development
 
 `yuki.nvim` is built with [Lush](https://github.com/rktjmp/lush.nvim) and uses [Shipwright](https://github.com/rktjmp/shipwright.nvim) as the build-system to output the color scheme. In development, you can point to the lush theme to get live feedback on color adjustments via `yuki_lush`.
