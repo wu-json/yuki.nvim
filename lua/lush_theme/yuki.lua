@@ -8,6 +8,7 @@ local palette = {
 	midnight = hsl(220, 20, 12),
 	slate = hsl(215, 10, 50),
 	mist = hsl(210, 8, 60),
+	black = hsl(0, 0, 10),
 }
 
 ---@diagnostic disable: undefined-global
@@ -22,13 +23,11 @@ local theme = lush(function(injected_functions)
 		FloatBorder({ fg = palette.slate }),
 		Question({ fg = palette.ice }),
 		QuickFixLine({ fg = palette.ice }),
-		StatusLine({ fg = palette.mist, bg = "NONE" }),
-		StatusLineNC({ fg = palette.slate, bg = "NONE" }),
-		MsgArea({ fg = palette.snow, bg = "NONE" }),
+		StatusLine({ bg = palette.black }),
 		TabLine({ fg = palette.snow, bg = "NONE" }),
 		TabLineFill({ bg = "NONE" }),
 		TabLineSel({ fg = palette.ice, bg = "NONE", gui = "bold" }),
-		Winseparator({ fg = palette.midnight }),
+		Winseparator({ fg = palette.black }),
 
 		String({ fg = palette.frost }),
 		Identifier({ fg = palette.ice }),
