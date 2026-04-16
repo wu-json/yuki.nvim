@@ -2,9 +2,6 @@
 
 A Neovim lua theme built with [Lush](https://github.com/rktjmp/lush.nvim). Yuki (雪) means snow — a cold, minimal colorscheme.
 
-> [!NOTE]
-> For the best visual experience, I would recommend setting your terminal theme to complement this palette. This theme intentionally does not define background colors and inherits the transparency and color of your terminal theme.
-
 # Installation
 
 ## lazy.nvim
