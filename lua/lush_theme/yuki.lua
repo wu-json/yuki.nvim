@@ -5,7 +5,7 @@ local palette = {
 	frost = hsl(210, 30, 78),
 	ice = hsl(200, 45, 65),
 	snow = hsl(220, 15, 95),
-	midnight = hsl(220, 20, 12),
+	midnight = hsl(0, 0, 10),
 	slate = hsl(215, 10, 50),
 	mist = hsl(210, 8, 60),
 }
