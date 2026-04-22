@@ -6,7 +6,7 @@ A Neovim lua theme built with [Lush](https://github.com/rktjmp/lush.nvim).
 
 Yuki (雪) means snow — a cold, minimal colorscheme.
 
-`yuki.nvim` is a quiet, monochrome-leaning palette inspired by snowy Tokyo side streets — soft whites, cool greys, and a deep inky night.
+`yuki.nvim` is a quiet, monochrome-leaning palette inspired by snowy streets.
 
 <br clear="right" />
 
