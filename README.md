@@ -1,6 +1,6 @@
-<img src="./screenshots/banner.png" alt="yuki.nvim banner" align="right" width="180" />
-
 # yuki.nvim
+
+<img src="./screenshots/banner.png" alt="yuki.nvim banner" align="right" width="220" />
 
 A Neovim lua theme built with [Lush](https://github.com/rktjmp/lush.nvim).
 
