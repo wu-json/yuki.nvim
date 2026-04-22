@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./screenshots/banner.png" alt="yuki.nvim banner" width="500" />
+</p>
+
 # yuki.nvim
 
 A Neovim lua theme built with [Lush](https://github.com/rktjmp/lush.nvim). Yuki (雪) means snow — a cold, minimal colorscheme.
