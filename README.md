@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
   <tr>
-    <td valign="middle">
+    <td valign="middle" width="70%">
       <h1>yuki.nvim</h1>
       <p>
         A Neovim lua theme built with
@@ -10,7 +10,7 @@
         Yuki (雪) means snow — a cold, minimal colorscheme.
       </p>
     </td>
-    <td width="280" align="right">
+    <td width="30%" align="right">
       <img src="./screenshots/banner.png" alt="yuki.nvim banner" width="260" />
     </td>
   </tr>
